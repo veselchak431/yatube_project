@@ -129,4 +129,6 @@ dmypy.json
 .pyre/
 
 
-.idea/
+.idea/yatube\.idea
+yatube/.idea
+yatube/.idea/
